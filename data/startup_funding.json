@@ -1,0 +1,22 @@
+[
+  {"problem_space": "Mental health for rural India", "market_size_usd_bn": 2.1, "total_funding_usd_mn": 12.5, "num_funded_startups": 3, "funding_gap_score": 1.8, "investor_interest": "low", "last_reviewed": "2026-04-15"},
+  {"problem_space": "Clean water access in Sub-Saharan Africa", "market_size_usd_bn": 4.3, "total_funding_usd_mn": 28.0, "num_funded_startups": 5, "funding_gap_score": 2.1, "investor_interest": "low", "last_reviewed": "2026-04-17"},
+  {"problem_space": "Fintech for unbanked populations", "market_size_usd_bn": 6.8, "total_funding_usd_mn": 420.0, "num_funded_startups": 42, "funding_gap_score": 7.8, "investor_interest": "high", "last_reviewed": "2026-04-19"},
+  {"problem_space": "Affordable housing technology", "market_size_usd_bn": 5.2, "total_funding_usd_mn": 85.0, "num_funded_startups": 11, "funding_gap_score": 3.4, "investor_interest": "medium", "last_reviewed": "2026-04-21"},
+  {"problem_space": "Last mile logistics in emerging markets", "market_size_usd_bn": 7.1, "total_funding_usd_mn": 210.0, "num_funded_startups": 18, "funding_gap_score": 5.2, "investor_interest": "medium", "last_reviewed": "2026-04-23"},
+  {"problem_space": "EdTech for vernacular languages", "market_size_usd_bn": 3.4, "total_funding_usd_mn": 18.0, "num_funded_startups": 4, "funding_gap_score": 1.6, "investor_interest": "low", "last_reviewed": "2026-04-25"},
+  {"problem_space": "Female health beyond fertility", "market_size_usd_bn": 4.7, "total_funding_usd_mn": 95.0, "num_funded_startups": 14, "funding_gap_score": 4.1, "investor_interest": "medium", "last_reviewed": "2026-04-27"},
+  {"problem_space": "Climate adaptation for smallholder farmers", "market_size_usd_bn": 3.9, "total_funding_usd_mn": 22.0, "num_funded_startups": 6, "funding_gap_score": 2.4, "investor_interest": "low", "last_reviewed": "2026-04-29"},
+  {"problem_space": "AI safety tooling", "market_size_usd_bn": 2.8, "total_funding_usd_mn": 340.0, "num_funded_startups": 28, "funding_gap_score": 8.2, "investor_interest": "high", "last_reviewed": "2026-05-01"},
+  {"problem_space": "Elder care technology", "market_size_usd_bn": 5.5, "total_funding_usd_mn": 48.0, "num_funded_startups": 8, "funding_gap_score": 2.9, "investor_interest": "low", "last_reviewed": "2026-05-03"},
+  {"problem_space": "Sustainable packaging", "market_size_usd_bn": 4.1, "total_funding_usd_mn": 132.0, "num_funded_startups": 19, "funding_gap_score": 5.8, "investor_interest": "medium", "last_reviewed": "2026-05-05"},
+  {"problem_space": "Disability assistive technology", "market_size_usd_bn": 2.6, "total_funding_usd_mn": 14.0, "num_funded_startups": 3, "funding_gap_score": 1.4, "investor_interest": "low", "last_reviewed": "2026-05-07"},
+  {"problem_space": "Food waste reduction", "market_size_usd_bn": 3.8, "total_funding_usd_mn": 76.0, "num_funded_startups": 12, "funding_gap_score": 4.6, "investor_interest": "medium", "last_reviewed": "2026-05-09"},
+  {"problem_space": "Affordable diagnostics for low-income countries", "market_size_usd_bn": 5.1, "total_funding_usd_mn": 31.0, "num_funded_startups": 7, "funding_gap_score": 2.2, "investor_interest": "low", "last_reviewed": "2026-05-11"},
+  {"problem_space": "Carbon capture technology", "market_size_usd_bn": 8.4, "total_funding_usd_mn": 580.0, "num_funded_startups": 35, "funding_gap_score": 7.4, "investor_interest": "high", "last_reviewed": "2026-05-13"},
+  {"problem_space": "Microfinance for women entrepreneurs", "market_size_usd_bn": 3.2, "total_funding_usd_mn": 19.0, "num_funded_startups": 5, "funding_gap_score": 1.9, "investor_interest": "low", "last_reviewed": "2026-05-15"},
+  {"problem_space": "Mental health for adolescents", "market_size_usd_bn": 4.4, "total_funding_usd_mn": 88.0, "num_funded_startups": 13, "funding_gap_score": 4.3, "investor_interest": "medium", "last_reviewed": "2026-05-17"},
+  {"problem_space": "Renewable energy storage", "market_size_usd_bn": 9.2, "total_funding_usd_mn": 920.0, "num_funded_startups": 47, "funding_gap_score": 8.6, "investor_interest": "high", "last_reviewed": "2026-05-19"},
+  {"problem_space": "Supply chain transparency", "market_size_usd_bn": 4.6, "total_funding_usd_mn": 145.0, "num_funded_startups": 21, "funding_gap_score": 6.1, "investor_interest": "medium", "last_reviewed": "2026-05-21"},
+  {"problem_space": "Veterinary telemedicine", "market_size_usd_bn": 1.8, "total_funding_usd_mn": 9.0, "num_funded_startups": 2, "funding_gap_score": 1.1, "investor_interest": "low", "last_reviewed": "2026-05-23"}
+]

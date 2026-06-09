@@ -1,0 +1,22 @@
+[
+  {"skill": "AI Product Management", "demand_score": 9.4, "supply_score": 2.1, "avg_salary_premium_pct": 38, "top_hiring_companies": "Google, Uber, OpenAI, Anthropic", "gap_score": 7.3, "last_reviewed": "2026-05-15"},
+  {"skill": "LLM Evaluation and Testing", "demand_score": 8.8, "supply_score": 1.8, "avg_salary_premium_pct": 32, "top_hiring_companies": "OpenAI, Cohere, Anthropic, Mistral", "gap_score": 7.0, "last_reviewed": "2026-05-15"},
+  {"skill": "Data Analysis and SQL", "demand_score": 8.2, "supply_score": 7.4, "avg_salary_premium_pct": 12, "top_hiring_companies": "Meta, Amazon, Flipkart, Swiggy", "gap_score": 0.8, "last_reviewed": "2026-05-15"},
+  {"skill": "Agile and Scrum", "demand_score": 7.1, "supply_score": 8.9, "avg_salary_premium_pct": 5, "top_hiring_companies": "Infosys, TCS, Wipro, Accenture", "gap_score": -1.8, "last_reviewed": "2026-05-15"},
+  {"skill": "API Design and Integration", "demand_score": 8.5, "supply_score": 4.2, "avg_salary_premium_pct": 22, "top_hiring_companies": "Stripe, Twilio, Razorpay, Plaid", "gap_score": 4.3, "last_reviewed": "2026-05-15"},
+  {"skill": "Growth and Experimentation", "demand_score": 8.9, "supply_score": 5.1, "avg_salary_premium_pct": 25, "top_hiring_companies": "Uber, Airbnb, Zomato, Meesho", "gap_score": 3.8, "last_reviewed": "2026-05-15"},
+  {"skill": "Platform and Infrastructure PM", "demand_score": 7.8, "supply_score": 3.4, "avg_salary_premium_pct": 28, "top_hiring_companies": "AWS, Google Cloud, Microsoft Azure", "gap_score": 4.4, "last_reviewed": "2026-05-15"},
+  {"skill": "Consumer Behaviour and Insights", "demand_score": 7.4, "supply_score": 6.8, "avg_salary_premium_pct": 10, "top_hiring_companies": "P&G, Unilever, Nykaa, Myntra", "gap_score": 0.6, "last_reviewed": "2026-05-15"},
+  {"skill": "Regulatory and Compliance PM", "demand_score": 7.2, "supply_score": 2.8, "avg_salary_premium_pct": 30, "top_hiring_companies": "Razorpay, PhonePe, Paytm, BharatPe", "gap_score": 4.4, "last_reviewed": "2026-05-15"},
+  {"skill": "Hardware and IoT PM", "demand_score": 6.8, "supply_score": 2.1, "avg_salary_premium_pct": 26, "top_hiring_companies": "Samsung, Bosch, Honeywell, Siemens", "gap_score": 4.7, "last_reviewed": "2026-05-15"},
+  {"skill": "Marketplace and Network Effects", "demand_score": 8.6, "supply_score": 4.8, "avg_salary_premium_pct": 27, "top_hiring_companies": "Uber, Swiggy, Urban Company, Dunzo", "gap_score": 3.8, "last_reviewed": "2026-05-15"},
+  {"skill": "Internationalisation and Localisation", "demand_score": 7.5, "supply_score": 3.9, "avg_salary_premium_pct": 18, "top_hiring_companies": "Shopify, Spotify, Booking.com", "gap_score": 3.6, "last_reviewed": "2026-05-15"},
+  {"skill": "B2B SaaS PM", "demand_score": 8.1, "supply_score": 5.6, "avg_salary_premium_pct": 20, "top_hiring_companies": "Salesforce, HubSpot, Freshworks, Zoho", "gap_score": 2.5, "last_reviewed": "2026-05-15"},
+  {"skill": "Product Analytics and Metrics", "demand_score": 8.7, "supply_score": 6.1, "avg_salary_premium_pct": 18, "top_hiring_companies": "Mixpanel, Amplitude, Clevertap", "gap_score": 2.6, "last_reviewed": "2026-05-15"},
+  {"skill": "Voice and Conversational UI", "demand_score": 7.9, "supply_score": 2.4, "avg_salary_premium_pct": 29, "top_hiring_companies": "Amazon Alexa, Google Assistant, Siri", "gap_score": 5.5, "last_reviewed": "2026-05-15"},
+  {"skill": "Pricing and Monetisation", "demand_score": 8.3, "supply_score": 4.7, "avg_salary_premium_pct": 24, "top_hiring_companies": "Uber, Netflix, Spotify, Hotstar", "gap_score": 3.6, "last_reviewed": "2026-05-15"},
+  {"skill": "Trust and Safety PM", "demand_score": 7.6, "supply_score": 2.9, "avg_salary_premium_pct": 27, "top_hiring_companies": "Meta, Twitter, Sharechat, Josh", "gap_score": 4.7, "last_reviewed": "2026-05-15"},
+  {"skill": "Developer Experience PM", "demand_score": 7.4, "supply_score": 2.6, "avg_salary_premium_pct": 25, "top_hiring_companies": "GitHub, Postman, HashiCorp, Vercel", "gap_score": 4.8, "last_reviewed": "2026-05-15"},
+  {"skill": "Healthcare and MedTech PM", "demand_score": 7.8, "supply_score": 3.1, "avg_salary_premium_pct": 31, "top_hiring_companies": "Practo, 1mg, PharmEasy, Apollo 24/7", "gap_score": 4.7, "last_reviewed": "2026-05-15"},
+  {"skill": "Sustainability and ESG PM", "demand_score": 6.9, "supply_score": 1.8, "avg_salary_premium_pct": 22, "top_hiring_companies": "Patagonia, IKEA, Mahindra, Tata", "gap_score": 5.1, "last_reviewed": "2026-05-15"}
+]
